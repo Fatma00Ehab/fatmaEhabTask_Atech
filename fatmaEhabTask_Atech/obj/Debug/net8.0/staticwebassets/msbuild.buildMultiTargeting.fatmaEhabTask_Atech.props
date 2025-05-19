@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\fatmaEhabTask_Atech.props" />
+</Project>

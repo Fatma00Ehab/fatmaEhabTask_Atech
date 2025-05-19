@@ -1,0 +1,6 @@
+@fatmaEhabTask_Atech_HostAddress = http://localhost:5193
+
+GET {{fatmaEhabTask_Atech_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
